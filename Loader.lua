@@ -6,8 +6,8 @@ else
 getgenv().scriptAlreadyExecuted = true
 end
 local player = Players.LocalPlayer
-local pcScriptUrl = ""
-local mobileScriptUrl = ""
+local pcScriptUrl = "https://raw.githubusercontent.com/orialdev/VisionHub/refs/heads/main/Pc.lua"
+local mobileScriptUrl = "https://raw.githubusercontent.com/orialdev/VisionHub/refs/heads/main/Mobile.lua"
 local function fetchAndRun(url)
 local success, response = pcall(function()
   return game:HttpGet(url)
