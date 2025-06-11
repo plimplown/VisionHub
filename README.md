@@ -1,7 +1,7 @@
 VisionHub – Murder Mystery 2
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/orialdev/VisionHub/refs/heads/main/Loader.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/plimplown/VisionHub/refs/heads/main/Loader.lua"))()
 ```
 
 ## 🧑‍💻 Information
