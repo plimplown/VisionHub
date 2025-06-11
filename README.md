@@ -1,5 +1,3 @@
-Sure! Here's the corrected and translated version into English:
-
 ````markdown
 # VisionHub – Murder Mystery 2
 
@@ -20,5 +18,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/orialdev/VisionHub/re
 * **Developer**: [@plimplown](https://github.com/plimplown)
 * **Version**: 1.1.0
 * **Last update**: 06/09/2025
-
-```
